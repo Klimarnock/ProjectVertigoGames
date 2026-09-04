@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9b6cc17705391644ca1c00af8d134dc4, type: 3}
+  m_Script: {fileID: 11500000, guid: c4a8490791f9fae4ebc0deeae140b604, type: 3}
   m_Name: Death
   m_EditorClassIdentifier: 
   rewardName: Death
